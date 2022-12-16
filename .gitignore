@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dotenv files
+*.env
+
+# code workspace
+*.code-workspace
